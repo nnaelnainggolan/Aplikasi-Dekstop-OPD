@@ -1,0 +1,266 @@
+{
+  "folder": "G:\\My Drive\\Latihan OPD Automation\\DESEMBER",
+  "slots": {
+    "BROADBAND": "A2",
+    "METRO": "A18"
+  },
+  "projects": [
+    {
+      "sheet": "05-BAPPELITBANG-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ],
+      "aliases": [
+        "05-BAPPERIDA-PROVSU"
+      ]
+    },
+    {
+      "sheet": "36-RUDIN-SEKDA-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "02-RUDINGUBSU-IFORTE",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "12-DINKES-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "31-BP2RD-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "07-DISHUB-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "18-DP3AKB-PROVSU-LT2",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "17-DP3AKB-PROVSU-LT1",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "08-BAPEG-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "29-PUPR-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "19-DINSOS-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "33-DISKOMINFO-HMSAID",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "04-SEKRETARIAT-DPRDSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "21-BASKESBANGPOL-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "15-DISBUDPAREKRAF-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "14-PMDDUKCAPIL",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "35-DISPERPUSIP-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "13-BPSDM-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "03-RUDIN WAGUBSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "34-BAPEG-ASESOR-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "28-DINAS-SDA-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "30-DLHK-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "25-DINAS-PERKIM-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "27-DINAS-KETAPANG-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "26-DISBUN-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "22-DISKOP-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "20-SATPOL-PP-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "24-BPBD-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "32-DISPERINDAG-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "06-DISDIK-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "09-INSPEKTORAT-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "11-DISKP-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "10-DPMPTSP-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "23-DISNAKER-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    },
+    {
+      "sheet": "01-HQ-KOMINFO-PROVSU",
+      "networks": [
+        "METRO"
+      ],
+      "aliases": [
+        "01-RG-HQ-PROVSU"
+      ]
+    },
+    {
+      "sheet": "16-DISPORA-PROVSU",
+      "networks": [
+        "METRO",
+        "BROADBAND"
+      ]
+    }
+  ]
+}

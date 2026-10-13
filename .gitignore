@@ -1,0 +1,12 @@
+@"
+.venv/
+*.exe
+__pycache__/
+.env
+credentials.json
+token.json
+audit_config.json
+unta_files/
+unta.html
+"@ | Out-File -Encoding utf8 .gitignore
+

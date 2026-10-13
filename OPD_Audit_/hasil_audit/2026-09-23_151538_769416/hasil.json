@@ -1,0 +1,792 @@
+[
+  {
+    "file": "23 SEPTEMBER 2026.xlsx",
+    "date": "2026-09-23",
+    "rows": [
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "05-BAPPELITBANG-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00000.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "05-BAPPELITBANG-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00001.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "36-RUDIN-SEKDA-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00002.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "36-RUDIN-SEKDA-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00003.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "02-RUDINGUBSU-IFORTE",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00004.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "02-RUDINGUBSU-IFORTE",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00005.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "12-DINKES-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00006.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "12-DINKES-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00007.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "31-BP2RD-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00008.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "31-BP2RD-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00009.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "07-DISHUB-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00010.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "07-DISHUB-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00011.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "18-DP3AKB-PROVSU-LT2",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00012.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "18-DP3AKB-PROVSU-LT2",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00013.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "17-DP3AKB-PROVSU-LT1",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00014.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "17-DP3AKB-PROVSU-LT1",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00015.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "08-BAPEG-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00016.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "08-BAPEG-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00017.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "29-PUPR-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00018.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "29-PUPR-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00019.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "19-DINSOS-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00020.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "19-DINSOS-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00021.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "33-DISKOMINFO-HMSAID",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00022.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "33-DISKOMINFO-HMSAID",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00023.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "04-SEKRETARIAT-DPRDSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00024.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "04-SEKRETARIAT-DPRDSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00025.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "21-BASKESBANGPOL-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00026.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "21-BASKESBANGPOL-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00027.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "15-DISBUDPAREKRAF-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00028.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "15-DISBUDPAREKRAF-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00029.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "14-PMDDUKCAPIL",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00030.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "14-PMDDUKCAPIL",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00031.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "35-DISPERPUSIP-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00032.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "35-DISPERPUSIP-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00033.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "13-BPSDM-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00034.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "13-BPSDM-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00035.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "03-RUDIN WAGUBSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00036.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "03-RUDIN WAGUBSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00037.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "34-BAPEG-ASESOR-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00038.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "34-BAPEG-ASESOR-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00039.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "28-DINAS-SDA-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00040.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "28-DINAS-SDA-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00041.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "30-DLHK-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00042.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "30-DLHK-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00043.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "25-DINAS-PERKIM-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00044.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "25-DINAS-PERKIM-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00045.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "27-DINAS-KETAPANG-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00046.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "27-DINAS-KETAPANG-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00047.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "26-DISBUN-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00048.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "26-DISBUN-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00049.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "22-DISKOP-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00050.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "22-DISKOP-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00051.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "20-SATPOL-PP-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00052.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "20-SATPOL-PP-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00053.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "24-BPBD-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00054.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "24-BPBD-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00055.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "32-DISPERINDAG-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00056.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "32-DISPERINDAG-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00057.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "06-DISDIK-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00058.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "06-DISDIK-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00059.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "09-INSPEKTORAT-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00060.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "09-INSPEKTORAT-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00061.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "11-DISKP-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00062.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "11-DISKP-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00063.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "10-DPMPTSP-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00064.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "10-DPMPTSP-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00065.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "23-DISNAKER-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00066.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "23-DISNAKER-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00067.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "01-HQ-KOMINFO-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00068.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "16-DISPORA-PROVSU",
+        "jaringan": "METRO",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Metro (baris 18–33).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00069.png"
+        ]
+      },
+      {
+        "file": "23 SEPTEMBER 2026.xlsx",
+        "sheet": "16-DISPORA-PROVSU",
+        "jaringan": "BROADBAND",
+        "status": "TERISI",
+        "alasan": "Gambar berada 100% di area Broadband (baris 2–16).",
+        "source_hash": "f89d1c8dfb67675251adc094ad66057d0d947abb908015b81b060918549b55f0",
+        "previews": [
+          "gambar/00070.png"
+        ]
+      }
+    ],
+    "extras": [],
+    "error": "",
+    "duplicate": false
+  }
+]
